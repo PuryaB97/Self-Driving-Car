@@ -32,7 +32,6 @@ class Controls {
           break;
       }
     };
-
     document.onkeyup = (event) => {
       switch (event.key) {
         case "ArrowLeft":
